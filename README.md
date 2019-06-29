@@ -1,2 +1,2 @@
-# CAP-X-Project
+# Dog idle
 game design
